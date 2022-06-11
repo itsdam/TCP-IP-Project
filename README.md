@@ -22,6 +22,6 @@
    <img width="" height="" src="./serv/서버 클라이언트 채팅 성공.JPG"></img>
  <p>클라이언트가 서버에서 채팅을 칠때마다 실시간으로 채팅 전송 정보가 실시간으로 출력된다.</p><br>
  
-    <img width="" height="" src="./serv/서버 파일 전송.JPG"></img>
+    <img width="" height="" src="./serv/server_file_transfer.JPG"></img>
  <p>클라이언트가 서버에서 파일 전송을 할때마다 파일 크기와 파일 전송 정보가 실시간으로 출력된다.</p><br> 
  
