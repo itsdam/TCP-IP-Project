@@ -22,50 +22,50 @@
    <img width="" height="" src="./serv/serv_chat.JPG"></img>
  <p>클라이언트가 서버에서 채팅을 칠때마다 실시간으로 채팅 전송 정보가 실시간으로 출력된다.</p><br>
  
-    <img width="" height="" src="./serv/serv_file.JPG"></img>
+   <img width="" height="" src="./serv/serv_file.JPG"></img>
  <p>클라이언트가 서버에서 파일 전송을 할때마다 파일 크기와 파일 전송 정보가 실시간으로 출력된다.</p><br> 
  
 <p>1. client</p>
   <img width="" height="" src="./clint/clint_start.JPG"></img>
  <p>우선 클라이언트 파일을 실행하기 위해선 실행 파일명 다음에 반드시 IP주소, 포트번호, 채팅에서 사용할 ID를 입력해야한다.</p><br>
  
-   <img width="" height="" src="./clint/clint_startError.JPG"></img>
+  <img width="" height="" src="./clint/clint_startError.JPG"></img>
  <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
  
-    <img width="" height="" src="./clint/clint_portError.JPG"></img>
+  <img width="" height="" src="./clint/clint_portError.JPG"></img>
  <p>서버와 일치하지 않는 포트 번호를 입력한 경우 Connet Error가 발생한다.</p><br>
  
-    <img width="" height="" src="./clint/clint_fullError.JPG"></img>
+  <img width="" height="" src="./clint/clint_fullError.JPG"></img>
  <p>서버에서 허용한 연결 가능 인원 수가 가득찬 경우에도 Connect Error를 발생한다.</p><br>
  
-    <img width="" height="" src="./clint/clint_chat.JPG"></img>
+  <img width="" height="" src="./clint/clint_chat.JPG"></img>
  <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
  
-    <img width="" height="" src="./clint/clint_menu.JPG"></img>
+  <img width="" height="" src="./clint/clint_menu.JPG"></img>
  <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
  
-    <img width="" height="" src="./clint/clint_changeName.JPG"></img>
+  <img width="" height="" src="./clint/clint_changeName.JPG"></img>
  <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
  
-     <img width="" height="" src="./clint/clint_status"></img>
+  <img width="" height="" src="./clint/clint_status"></img>
  <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
  
-    <img width="" height="" src="./clint/clint_file_me.JPG"></img>
+  <img width="" height="" src="./clint/clint_file_me.JPG"></img>
  <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
  
-    <img width="" height="" src="./clint/clint_file_you.JPG"></img>
+  <img width="" height="" src="./clint/clint_file_you.JPG"></img>
  <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
  
-    <img width="" height="" src="./clint/clint_fileAll_me.JPG"></img>
+  <img width="" height="" src="./clint/clint_fileAll_me.JPG"></img>
  <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
  
-     <img width="" height="" src="./clint/clint_fileAll_you1.JPG"></img>
-     <img width="" height="" src="./clint/clint_fileAll_you2.JPG"></img>
+  <img width="" height="" src="./clint/clint_fileAll_you1.JPG"></img>
+  <img width="" height="" src="./clint/clint_fileAll_you2.JPG"></img>
  <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
  
-     <img width="" height="" src="./clint/clint_fileError_file.JPG"></img>
-     <img width="" height="" src="./clint/clint_fileError_user.JPG"></img>
+  <img width="" height="" src="./clint/clint_fileError_file.JPG"></img>
+  <img width="" height="" src="./clint/clint_fileError_user.JPG"></img>
  <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
  
-     <img width="" height="" src="./clint/clint_exit.JPG"></img>
+  <img width="" height="" src="./clint/clint_exit.JPG"></img>
  <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
