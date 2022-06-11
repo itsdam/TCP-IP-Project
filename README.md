@@ -36,36 +36,42 @@
  <p>서버와 일치하지 않는 포트 번호를 입력한 경우 Connet Error가 발생한다.</p><br>
  
   <img width="" height="" src="./clint/clint_fullError.JPG"></img>
- <p>서버에서 허용한 연결 가능 인원 수가 가득찬 경우에도 Connect Error를 발생한다.</p><br>
+ <p>서버에서 허용한 연결 가능 인원 수가 가득찬 경우에도 Error를 발생한다.</p><br>
  
   <img width="" height="" src="./clint/clint_chat.JPG"></img>
- <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
+ <p>정상적으로 클라이언트가 연결될 경우 채팅이 가능하다.</p><br>
  
   <img width="" height="" src="./clint/clint_menu.JPG"></img>
- <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
+ <p>[TIP]으로도 나와있듯이 /menu를 입력하면 메뉴를 볼 수 있다.</p><br>
  
   <img width="" height="" src="./clint/clint_changeName.JPG"></img>
- <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
+ <p>/newName 기능은 자신이 설정한 이름(ID)를 변경할 수 있다.<br>입력창에 원하는 이름(ID)을 입력한 후, 채팅을 입력하면 변경된 이름(ID)으로 보내지는 것을 확인할 수 있다.</p><br>
  
-  <img width="" height="" src="./clint/clint_status"></img>
- <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
+  <img width="" height="" src="./clint/clint_status.JPG"></img>
+ <p>/statusInfo 기능은 현재 자신의 연결 정보를 확인할 수 있다.<br> 확인 가능한 정보는 연결된 IP주소, 포트번호, 자신의 이름(ID)이 있다.</p><br>
  
   <img width="" height="" src="./clint/clint_file_me.JPG"></img>
- <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
+ <p>/sendfile 기능은 원하는 사용자에게 파일을 전송할 수 있는 기능이다.<br> 
+처음으로 파일의 위치를 입력하고 누구에게 보낼건지 입력한다. 이때 상대방의 이름(ID)을 입력해야한다.<br>
+두 가지를 모두 입력하면 전송할 파일 크기를 알려주고 파일 전송을 시작한다.<br> 
+정상적으로 파일이 전송된 경우, 파일을 성공적으로 전송했다는 정보를 출력해준다.</p><br>
  
   <img width="" height="" src="./clint/clint_file_you.JPG"></img>
- <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
+ <p>파일을 수신하는 사용자들은 우선 파일의 크기와 함께 파일 수신 요청을 받게 된다.<br>
+수신자는 받는 파일의 이름을 자신이 임의로 설정할 수 있으며 입력한 후에는 정상적으로 파일 전송이 완료된다.</p><br>
  
   <img width="" height="" src="./clint/clint_fileAll_me.JPG"></img>
- <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
+ <p>/sendfile all 기능은 현재 채팅 서버에 연결되어 있는 모든 사용자들에게 파일을 한번에 전송할 수 있다.<br>
+일반 파일 전송과 마찬가지로 전송할 파일의 위치를 입력하면 보낼 사용자들의 정보를 입력하지 않아도 바로 전송이 시작된다.</p><br>
  
   <img width="" height="" src="./clint/clint_fileAll_you1.JPG"></img>
   <img width="" height="" src="./clint/clint_fileAll_you2.JPG"></img>
- <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
+ <p>파일 전송과 동시에 현재 서버에 연결되어 있는 모든 사용자들에게 파일 수신 요청을 받게 된다.
+<br> 마찬가지로 파일의 이름을 마음대로 입력하게 되면 정상적으로 파일 전송이 완료된다.</p><br>
  
   <img width="" height="" src="./clint/clint_fileError_file.JPG"></img>
   <img width="" height="" src="./clint/clint_fileError_user.JPG"></img>
- <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
+ <p>파일 전송 기능을 사용할 때 파일의 위치나 사용자의 이름을 올바르지 못하게 입력한 경우 Error가 발생하게 된다.</p><br>
  
   <img width="" height="" src="./clint/clint_exit.JPG"></img>
- <p>만약 세 가지중에 하나라도 충족이 되지 않으면 입력해야하는 정보들을 알려준다.</p><br>
+ <p>/exit 기능으로 채팅 서비스를 종료할 수 있다.</p><br>
